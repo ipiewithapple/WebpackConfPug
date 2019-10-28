@@ -1,5 +1,5 @@
 {
-  "name": "webpackconf",
+  "name": "webpack_conf_with_pug",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
